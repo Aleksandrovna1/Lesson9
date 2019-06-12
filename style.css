@@ -1,0 +1,64 @@
+body{
+    padding: 20px;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    outline: 1px solid black;
+    outline-offset: 3px;  
+    margin: 0 auto;
+}
+
+th{
+    padding: 7px;
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+    
+}
+.tot{
+    vertical-align: bottom;
+    text-align: center;
+}
+.item1{
+    width: 13%;
+    text-align: center;
+
+}
+.item3{
+    vertical-align:top;
+}
+.item4{
+    vertical-align: top;
+    text-align: right;  
+}
+.item4{
+    border-bottom-style: hidden;
+}
+.item5{
+    vertical-align: top;
+    text-align: right;  
+}
+ td.item3.item6{
+    border-right-style: hidden;
+    border-left: 3px solid black;
+}
+.item7{
+    border-bottom-style: hidden;
+}
+.bold{
+    border-bottom: 3px solid black;  
+}
+.right{
+    border-right: 3px solid black;  
+}
+.top{
+    border-top: 3px solid black;  
+}
+.left{
+    border-left: 3px solid black;  
+}
